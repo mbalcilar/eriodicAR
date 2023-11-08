@@ -1,16 +1,17 @@
 citHeader("To cite pear in publications use:")
 
-citEntry(entry = "Article",
-  title        = "periodicAR: Periodic Autoregression Analysis",
-  author       = personList(as.person("Mehmet Balcilar")),
-  journal      = "R Package",
-  year         = "2023",
-  url          = "https://github.com/mbalcilar/periodicAR",
-
-  textVersion  =
-  paste("Balcilar, Mehmet (2023).",
-        "periodicAR: Periodic Autoregression Analysis",
-        "Available online: https://github.com/mbalcilar/periodicAR")
+bibentry(
+  bibtype = "Manual",
+  title = "periodicAR: Identification and Estimation Periodic Autoregressive Models",
+  author = c(person(given="Mehmet",  family="Balcilar", 
+                    role = c("cre", "com", "aut")),
+             person(given="Ian", family="McLeod", 
+             role = "aut")
+                    ),
+  year = "2023",
+  note = "R package version 1.5-1",
+  url = "https://github.com/mbalcilar/periodicAR",
+  key = "periodicAR-package"
 )
 
 

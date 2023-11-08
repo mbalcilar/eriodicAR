@@ -49,12 +49,12 @@ McLeod, A.I. (1994), "Diagnostic Checking of Periodic Autoregression"
 Journal of Time Series Analysis, Vol. 15, No. 2, pp.221--233.
 }
 \seealso{
-pear
+periodicAR
 }
 
 \examples{
 data(Fraser)
-pear.out <- pear(log(Fraser), ic="bic")
-pepsi(pear.out$phi,lag.max=20)
+periodicAR.out <- periodicAR(log(Fraser), ic="bic")
+pepsi(periodicAR.out$phi,lag.max=20)
 }
 \keyword{ts}

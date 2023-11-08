@@ -5,7 +5,7 @@ export(
 "find.ice",
 "peacf",
 "peacf.plot",
-"pear",
+"periodicAR",
 "peboxplot",
 "pepacf",
 "peplot",

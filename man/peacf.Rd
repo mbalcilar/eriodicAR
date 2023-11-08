@@ -78,7 +78,7 @@ Journal of Time Series Analysis, Vol. 15, No. 2, pp.221--233.
 }
 
 \seealso{
-peacf.plot, pepacf, peplot, peboxplot, pear, acf, acf.plot
+peacf.plot, pepacf, peplot, peboxplot, periodicAR, acf, acf.plot
 }
 
 \examples{
