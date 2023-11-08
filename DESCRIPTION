@@ -20,5 +20,6 @@ LazyLoad: yes
 LazyData: yes
 License: GPL (>= 3)
 Encoding: UTF-8
+Language: en-US
 URL: http://www.mbalcilar.net
 RoxygenNote: 7.2.3
