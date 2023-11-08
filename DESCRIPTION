@@ -2,8 +2,8 @@ Package: periodicAR
 Version: 1.5
 Date: 2023-11-07
 Title: Package for Periodic Autoregression Analysis
-Author: Mehmet Balcilar <mehmet@mbalcilar.net> and A. I. McLeod <aim@uwo.ca>
-Maintainer: Mehmet Balcilar <mehmet@mbalcilar.net>
+Authors@R: c(person("Mehmet", "Balcilar", email = "mehmet@mbalcilar.net", role = c("com", "cre")),
+  person("Ian", "McLeod", email = "aimcleod@uwo.ca", role = c("aut")))
 Depends: R (>= 2.1.0)
 Description: Package for estimating periodic autoregressive models.
         Datasets: monthly ozone and Fraser riverflow. Plots: periodic
