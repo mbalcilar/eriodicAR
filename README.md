@@ -8,6 +8,7 @@ It can be use for estimating periodic autoregressive models.
 
 ## Installation
 
+<!--
 You can install the released version of mFilter from
 [CRAN](https://CRAN.R-project.org) with:
 
@@ -16,6 +17,9 @@ install.packages("periodicAR")
 ```
 
 The development version can be installed with:
+-->
+
+You can install the package from Github:
 
 ``` r
 devtools::install_github("mbalcilar/periodicAR")
