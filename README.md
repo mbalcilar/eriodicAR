@@ -1,6 +1,6 @@
 # periodicAR
 
-`periodicAR` is a packege for  **Periodic Autoregression Analysis**.
+`periodicAR` is a package for the identification and estimation periodic autoregressive models.
 
 It can be use for estimating periodic autoregressive models.
 **Datasets:** monthly ozone and Fraser riverflow. 
